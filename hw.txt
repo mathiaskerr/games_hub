@@ -1,0 +1,8 @@
+1.
+2.client is responsible for the react app, server is responsible for the db & routes
+3.creates and sets up the db
+4. all the routes?
+5.listens for requests and passes data to and from the client and db
+6.
+7.
+8.
