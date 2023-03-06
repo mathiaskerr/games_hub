@@ -1,8 +1,8 @@
-1.
+1.dont know what is meant by games resource
 2.client is responsible for the react app, server is responsible for the db & routes
 3.creates and sets up the db
 4. all the routes?
 5.listens for requests and passes data to and from the client and db
-6.
-7.
-8.
+6.post request and delete request
+7.dont know
+8. crud actions , promises and call backs
